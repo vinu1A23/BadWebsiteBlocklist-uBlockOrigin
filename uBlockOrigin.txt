@@ -123,6 +123,7 @@
 *://*.pupuweb.com/*
 *://*.codefinity.com/blog/*
 *://*.sqldocs.org/*
+*://*.sqlpey.com/*
 *://*.ithy.com/article/*
 *://*.releasedate.info/*
 *://blog.neuronvm.com/*
